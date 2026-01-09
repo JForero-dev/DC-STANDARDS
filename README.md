@@ -63,7 +63,7 @@ Desarrollo y diseño web por **JACOBO FORERO**
 
 ## 🧾 Licencia
 
-Este proyecto es propiedad de **S&J FULL SERVICES S.A.S**  
+Este proyecto es propiedad de **D&C STANDARDS S.A.S**  
 © 2026 — Todos los derechos reservados.  
 Prohibida la reproducción o redistribución sin autorización escrita.
 
