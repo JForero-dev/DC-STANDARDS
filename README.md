@@ -15,7 +15,7 @@
 
 ---
 
-<h1 align="center">Bienvenido a D&C STANDARDS S.A.S 🚀</h1>
+<h1 align="center">Bienvenido a D&C STANDARDS S.A.S 🦁</h1>
 
 <p align="center">
   <em>Garantizamos seguridad operacional, cumplimiento normativo y excelencia técnica con los más altos estándares nacionales.</em>
@@ -26,7 +26,7 @@
 ## 🧭 Enlace del sitio
 
 🔗 **GitHub Pages:**  
-👉 [https://jacobo-forero.github.io/DC-STANDARDS/](https://jacobo-forero.github.io/DC-STANDARDS/)
+👉 [https://jforero-dev.github.io/DC-STANDARDS/](https://jforero-dev.github.io/DC-STANDARDS/)
 
 ---
 
@@ -57,7 +57,7 @@
 **FULL SERVICES S.A.S**  
 Desarrollo y diseño web por **JACOBO FORERO**  
 📧 desarrollo@fullservices.com.co <br>
-🌐 [https://jacobo-forero.github.io/DC-STANDARDS/](https://jacobo-forero.github.io/DC-STANDARDS/)
+🌐 [https://jforero-dev.github.io/DC-STANDARDS/](https://jforero-dev.github.io/DC-STANDARDS/)
 
 ---
 
