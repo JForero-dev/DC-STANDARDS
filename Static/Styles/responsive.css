@@ -1,4 +1,8 @@
+/* ================================
+   RESPONSIVE OPTIMIZADO (TABLET)
+   ================================ */
 @media (max-width: 1024px) {
+
     .container {
         padding: 0 1.5rem;
     }
@@ -49,11 +53,14 @@
     .contact-wrapper {
         grid-template-columns: 1fr;
     }
-    }
+}
 
 
-
+/* ================================
+   RESPONSIVE OPTIMIZADO (MÓVIL)
+   ================================ */
 @media (max-width: 768px) {
+
     /* Global */
     body {
         font-size: 0.95rem;
@@ -228,7 +235,7 @@
         padding: 2rem;
     }
 
-    /* Footer */
+    /* ================= FOOTER ================= */
     .footer-content {
         grid-template-columns: 1fr;
         gap: 2rem;
@@ -236,6 +243,20 @@
 
     .footer {
         padding-top: 3rem;
+    }
+
+    .footer-section:last-child {
+        margin-bottom: 2.5rem;
+    }
+
+    .footer-bottom {
+        padding-top: 2.5rem;
+        padding-bottom: 2rem;
+    }
+
+    .footer-bottom p {
+        margin: 0;
+        line-height: 1.6;
     }
 }
 
