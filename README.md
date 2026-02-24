@@ -26,7 +26,7 @@
 ## 🧭 Enlace del sitio
 
 🔗 **GitHub Pages:**  
-👉 [https://jforero-dev.github.io/DC-STANDARDS/](https://jforero-dev.github.io/DC-STANDARDS/)
+👉 [https://jac0bzz.github.io/DC-STANDARDS/](https://jac0bzz.github.io/DC-STANDARDS/)
 
 ---
 
@@ -57,7 +57,7 @@
 **FULL SERVICES S.A.S**  
 Desarrollo y diseño web por **JACOBO FORERO**  
 📧 desarrollo@fullservices.com.co <br>
-🌐 [https://jforero-dev.github.io/DC-STANDARDS/](https://jforero-dev.github.io/DC-STANDARDS/)
+🌐 [https://jac0bzz.github.io/DC-STANDARDS/](https://jac0bzz.github.io/DC-STANDARDS/)
 
 ---
 
